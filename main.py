@@ -1,5 +1,5 @@
 # Tic Tac Toe game as written by ChatGPT that plays against the computer
-# Computer selects spot by random
+# Computer selects spot by random so play is easy for user
 
 import random
 
